@@ -1,8 +1,9 @@
 # Conway's Game-of-Life
 
-### Illustration : Gosper's glider gun
+### Illustration : 
 
-![Gosper's glider gun (animation du Jeu de la Vie)](https://upload.wikimedia.org/wikipedia/commons/7/7a/Gospers_glider_gun.gif)
+<img src="image/conwaysGame.gif" alt="Mastermind" style="width:80%; height:auto;" />
+
 
 ## Objectif
 
